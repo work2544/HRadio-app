@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/HRadio-app/static/css/main.e8030a4b.css",
-    "main.js": "/HRadio-app/static/js/main.b0494e7c.js",
+    "main.css": "/HRadio-app/static/css/main.f4e2387b.css",
+    "main.js": "/HRadio-app/static/js/main.b3903d28.js",
     "static/js/787.b1eb8c7d.chunk.js": "/HRadio-app/static/js/787.b1eb8c7d.chunk.js",
     "static/media/poster1.jpg": "/HRadio-app/static/media/poster1.cdf28332a2eec30664c9.jpg",
     "index.html": "/HRadio-app/index.html",
-    "main.e8030a4b.css.map": "/HRadio-app/static/css/main.e8030a4b.css.map",
-    "main.b0494e7c.js.map": "/HRadio-app/static/js/main.b0494e7c.js.map",
+    "main.f4e2387b.css.map": "/HRadio-app/static/css/main.f4e2387b.css.map",
+    "main.b3903d28.js.map": "/HRadio-app/static/js/main.b3903d28.js.map",
     "787.b1eb8c7d.chunk.js.map": "/HRadio-app/static/js/787.b1eb8c7d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e8030a4b.css",
-    "static/js/main.b0494e7c.js"
+    "static/css/main.f4e2387b.css",
+    "static/js/main.b3903d28.js"
   ]
 }
