@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/HRadio-app/static/css/main.e8030a4b.css",
+    "main.js": "/HRadio-app/static/js/main.b0494e7c.js",
+    "static/js/787.b1eb8c7d.chunk.js": "/HRadio-app/static/js/787.b1eb8c7d.chunk.js",
+    "static/media/poster1.jpg": "/HRadio-app/static/media/poster1.cdf28332a2eec30664c9.jpg",
+    "index.html": "/HRadio-app/index.html",
+    "main.e8030a4b.css.map": "/HRadio-app/static/css/main.e8030a4b.css.map",
+    "main.b0494e7c.js.map": "/HRadio-app/static/js/main.b0494e7c.js.map",
+    "787.b1eb8c7d.chunk.js.map": "/HRadio-app/static/js/787.b1eb8c7d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8030a4b.css",
+    "static/js/main.b0494e7c.js"
+  ]
+}
