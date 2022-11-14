@@ -47,7 +47,7 @@
     font-weight: 600;
   }
   
-  @media screen and (max-width: 500px) {
+  @media screen and (max-width: 768px) {
     .modalContainer {
       flex-direction: column;
       top: 0;

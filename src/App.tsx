@@ -6,7 +6,7 @@ import { Route, Routes } from "react-router-dom";
 import HomePage from "./Page/HomePage";
 function App() {
   return (
-    <div className="h-screen bg-slate-900 ">
+    <div className="h-screen ">
       <Posterpopup></Posterpopup>
       <Mynavbar></Mynavbar>
       <Routes>

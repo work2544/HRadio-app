@@ -11,7 +11,7 @@ import "swiper/css/navigation";
 import "../Assets/css/styles.css";
 
 // import required modules
-import SwiperCore,{ Pagination,Autoplay } from "swiper";
+import { Pagination,Autoplay } from "swiper";
 function Carousel() {
   return (
     <Swiper
