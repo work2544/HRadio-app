@@ -12,7 +12,7 @@ const Posterpopup = () => {
     return <></>;
   }
   return (
-    <div onClick={toggled} className="overlay" style={{zIndex: '3'}}>
+    <div onClick={toggled} className="overlay z-50" >
       <div
         onClick={(e) => {
           e.stopPropagation();

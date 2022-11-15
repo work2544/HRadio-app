@@ -2,18 +2,24 @@ import { Images } from "../Assets/img/imgpath";
 import Carousel from "../Component/Carousel";
 import Contents from "../Component/Contents";
 import { SvgOrangeWave ,SvgRedWave} from "../Component/svg";
-const headerStyle = {
-  zIndex: 2,
-};
-const HomePage = () => {
+
+const HomePage5 = () => {
   return (
     <div>
       {/* <div className="bg-center flex flex-col  space-y-10 bg-gradient-to-b from-theme-Blue via-theme-SkyBlue to-theme-Blue "> */}
-      <div className="flex flex-warp bg-center flex flex-col  space-y-10 bg-gradient-to-r from-theme-Orange  to-yellow-500 ">
+      <div className="flex flex-warp bg-center flex flex-col  space-y-10 bg-black ">
         <div className="h-96 flex items-center justify-center  ">
-         
-          <img className="relative lg:w-4/12 md:w-32 lg:w-48"src={Images.logo2}  style={{ zIndex: 2 }} alt=""></img>
+          
+          <img className="fixed w-4/12"src={Images.logo2}  style={{ zIndex: 2 }} alt=""></img>
+          {/* <p
+            className="text-center font-LexendDeca text-6xl md:text-8xl text-white mt-10 "
+            style={headerStyle}
+          >
+            
+             HRadio 91.0 
+          </p> */}
         </div>
+
         <Carousel />
         <SvgRedWave />
       </div>
@@ -22,4 +28,4 @@ const HomePage = () => {
     </div>
   );
 };
-export default HomePage;
+export default HomePage5;

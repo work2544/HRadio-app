@@ -28,7 +28,7 @@ export default function Mynavbar() {
           href="/HRadio-app"
           className="flex items-center hover:underline text-white font-LexendDeca text-xl"
         >
-          Pages
+          HomePage1
         </a>
       </Typography>
       <Typography
@@ -38,10 +38,10 @@ export default function Mynavbar() {
         className="p-1 font-normal"
       >
         <a
-          href="/HRadio-app"
+          href="/HRadio-app/2"
           className="flex items-center hover:underline text-white font-LexendDeca text-xl"
         >
-          Account
+          HomePage2
         </a>
       </Typography>
       <Typography
@@ -51,10 +51,10 @@ export default function Mynavbar() {
         className="p-1 font-normal"
       >
         <a
-          href="/HRadio-app"
+          href="/HRadio-app/3"
           className="flex items-center hover:underline text-white font-LexendDeca text-xl"
         >
-          Blocks
+          HomePage3
         </a>
       </Typography>
       <Typography
@@ -64,10 +64,10 @@ export default function Mynavbar() {
         className="p-1 font-normal"
       >
         <a
-          href="/HRadio-app"
+          href="/HRadio-app/4"
           className="flex items-center hover:underline text-white font-LexendDeca text-xl"
         >
-          Docs
+          HomePage4
         </a>
       </Typography>
     </ul>
@@ -75,8 +75,8 @@ export default function Mynavbar() {
 
   return (
     <Navbar
-      className="relative w-full flex flex-wrap items-center justify-between py-3 bg-black  shadow-lg navbar navbar-expand-lg navbar-light  "
-      style={{ zIndex: "2" }}
+      className="relative w-full flex flex-wrap items-center justify-between py-3 bg-black  shadow-lg navbar navbar-expand-lg navbar-light z-40"
+     
     >
       <div className="container mx-auto flex items-center justify-center">
         <Typography
